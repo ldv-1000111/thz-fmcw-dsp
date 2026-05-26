@@ -24,30 +24,22 @@ IN THE DOCUMENTATION.
 
 Third-party references
 
-This documentation references and cites the following works under fair use
-for educational and research purposes. No content from these works is
-reproduced verbatim; only equations, formulas, and factual technical
-information are referenced with full attribution.
+Referenced under fair use for educational and research purposes.
+No content is reproduced verbatim; only equations and factual
+technical information are cited with full attribution.
 
   Smith, S.W. (1997). The Scientist and Engineer's Guide to Digital Signal
   Processing. California Technical Publishing. ISBN 0-9660176-3-3.
   Available free at http://www.dspguide.com
   © 1997 Steven W. Smith — all rights reserved by the original author.
 
-  Schasler, C., Hoffmann, M., Braunig, J., Ullmann, I., Ebelt, R., &
-  Vossiek, M. (2021). A Realistic Radar Ray Tracing Simulator for Large
-  MIMO-Arrays in Automotive Environments. IEEE Journal of Microwaves, 1(4),
-  962–974. https://doi.org/10.1109/JMW.2021.3104722
+  Schasler, C. et al. (2021). A Realistic Radar Ray Tracing Simulator for
+  Large MIMO-Arrays in Automotive Environments. IEEE Journal of Microwaves,
+  1(4), 962–974. https://doi.org/10.1109/JMW.2021.3104722
   © 2021 IEEE — used for citation purposes only.
 
-  Liu, G., Yang, W., Li, P., et al. (2022). MIMO Radar Parallel Simulation
-  System Based on CPU/GPU Architecture. Sensors, 22(1), 396.
-  https://doi.org/10.3390/s22010396
-  © 2022 MDPI — open access, CC BY 4.0.
-
-  Frigo, M., & Johnson, S.G. (2005). The Design and Implementation of FFTW3.
+  Frigo, M. & Johnson, S.G. (2005). The Design and Implementation of FFTW3.
   Proceedings of the IEEE, 93(2), 216–231.
   https://doi.org/10.1109/JPROC.2003.823119
-  FFTW3 library: GNU GPL v2 or later — the simulation engine links against
-  FFTW3 as a runtime dependency; this documentation repository does not
-  distribute FFTW3 source or binaries.
+  FFTW3 library: GNU GPL v2 or later. This documentation repository does
+  not distribute FFTW3 source or binaries.
